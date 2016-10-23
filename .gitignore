@@ -4,8 +4,13 @@
 *.o
 *.obj
 
+# Cmake build files
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
 # Build Target
-target
+atext
 
 # GNU Make Dependency Files
 dep/*.d
